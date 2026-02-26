@@ -1,0 +1,8 @@
+---------------------------------------
+LAB INFRASTRUCTURE VERIFICATION
+---------------------------------------
+User: jay
+Date: Thu Feb 26 02:20:37 AM UTC 2026
+Kernel: 6.8.0-101-generic
+Directory: /home/jay/Foundations_Final_Lab
+---------------------------------------
